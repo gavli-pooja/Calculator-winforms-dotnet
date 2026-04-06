@@ -1,0 +1,28 @@
+D:\6 Sem\.NET\Calucalor\bin\Debug\net10.0-windows\Calucalor.exe
+D:\6 Sem\.NET\Calucalor\bin\Debug\net10.0-windows\Calucalor.deps.json
+D:\6 Sem\.NET\Calucalor\bin\Debug\net10.0-windows\Calucalor.runtimeconfig.json
+D:\6 Sem\.NET\Calucalor\bin\Debug\net10.0-windows\Calucalor.dll
+D:\6 Sem\.NET\Calucalor\bin\Debug\net10.0-windows\Calucalor.pdb
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.AssemblyInfoInputs.cache
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.AssemblyInfo.cs
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.csproj.CoreCompileInputs.cache
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.dll
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\refint\Calucalor.dll
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.pdb
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\Calucalor.genruntimeconfig.cache
+D:\6 Sem\.NET\Calucalor\obj\Debug\net10.0-windows\ref\Calucalor.dll
+C:\Users\amitp\Pictures\dotnet\Calucalor\bin\Debug\net10.0-windows\Calucalor.exe
+C:\Users\amitp\Pictures\dotnet\Calucalor\bin\Debug\net10.0-windows\Calucalor.deps.json
+C:\Users\amitp\Pictures\dotnet\Calucalor\bin\Debug\net10.0-windows\Calucalor.runtimeconfig.json
+C:\Users\amitp\Pictures\dotnet\Calucalor\bin\Debug\net10.0-windows\Calucalor.dll
+C:\Users\amitp\Pictures\dotnet\Calucalor\bin\Debug\net10.0-windows\Calucalor.pdb
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.AssemblyInfoInputs.cache
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.AssemblyInfo.cs
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.csproj.CoreCompileInputs.cache
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.dll
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\refint\Calucalor.dll
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.pdb
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\Calucalor.genruntimeconfig.cache
+C:\Users\amitp\Pictures\dotnet\Calucalor\obj\Debug\net10.0-windows\ref\Calucalor.dll
